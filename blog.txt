@@ -1,0 +1,26 @@
+2#01
+                  [33m░█░█░█▀▀░█▀█░█░░░░░░█▄█░█▀▀░[0m
+                  [33m░█▀█░█░█░█▀█░█░░░░░░█░█░█▀▀░[0m
+                  [33m░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░░▀░▀░▀▀▀░[0m
+  
+⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁
+  
+site.sh - publish your jekyll site as curl-able script
+------------------------------------------------------
+may 3, 2019
+  
+recently, i came across a github repo[1] from @rootbeersoup that 
+showed off his command-line curl version of his website.  you
+could even navigate the site by curl-ing other links.  i thought
+that was pretty cool and was going to implement the same thing
+on my site.  at some point before i got around to that, i was
+using a TUI app and thought it would be even cooler if i wrote
+one of those that navigated my site. even better, i could write
+it in such a way that you could just run 
+  
+```
+curl https://hgal.me/.sh | bash
+```
+  
+[1]: https://github.com/rootbeersoup/site
+

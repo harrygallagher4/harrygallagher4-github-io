@@ -1,0 +1,28 @@
+2#00
+                  [33m░█░█░█▀▀░█▀█░█░░░░░░█▄█░█▀▀░[0m
+                  [33m░█▀█░█░█░█▀█░█░░░░░░█░█░█▀▀░[0m
+                  [33m░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░░▀░▀░▀▀▀░[0m
+  
+⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁
+  
+site.sh
+-------
+`curl https://hgal.me/.sh | bash` fully browsable site in your
+terminal. Includes a jekyll renderer to convert existing content
+into text files browsable by the site.sh script
+ 
+ 
+word-wheel
+----------
+Word Wheel puzzle state calculator and dictionary scanner
+  
+  
+homebrew-pkgconfig-path
+-----------------------
+zsh script that update pkg-config's path to include your
+homebrew keg-only libraries
+ 
+ 
+rename-torrents
+---------------
+node.js script for renaming torrents. work in progress

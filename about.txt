@@ -1,0 +1,24 @@
+2#00
+                  [33m░█░█░█▀▀░█▀█░█░░░░░░█▄█░█▀▀░[0m
+                  [33m░█▀█░█░█░█▀█░█░░░░░░█░█░█▀▀░[0m
+                  [33m░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░░▀░▀░▀▀▀░[0m
+  
+⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁⦁
+  
+hi, i'm harry. i'm a self-taught programmer from st. louis, but
+i currently live in new orleans. i first learned java when i
+wanted to make mods for minecraft. from there i learned basic
+web-dev using php/mysql (but that was short lived and i suck at
+it). after high school i got a job working for a local startup
+writing javascript for a web application. i spend most of my
+time writing node.js apps, react apps, and designing static
+websites.
+ 
+i also love music, movies, and math, but don't have as much
+interesting stuff to say about that.
+  
+find me on social mediia:
+  
+github:               @harrygallagher4
+twitter:              @hgallagher4
+keybase (chat me!):   @harryg
