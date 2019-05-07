@@ -1,4 +1,4 @@
-```
+```shell
 bash <(curl https://hgal.me/.sh)
 ```
 
